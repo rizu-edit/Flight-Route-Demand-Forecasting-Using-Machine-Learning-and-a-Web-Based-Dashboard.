@@ -1,0 +1,2 @@
+# Flight-Route-Demand-Forecasting-Using-Machine-Learning-and-a-Web-Based-Dashboard.
+Machine learning system that forecasts booked seats on international flights. Compares Random Forest, XGBoost, LightGBM, CatBoost and MLP models trained per route on 50,000 flight records across 10 routes (R² up to 0.737). Includes a web dashboard for route analysis and live demand predictions from flight, booking, seasonal and economic inputs.
